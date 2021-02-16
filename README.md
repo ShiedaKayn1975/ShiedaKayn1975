@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShiedaKayn1975
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning ruby and reactjs
-- 💞️ I’m looking to collaborate on microsoft
 - 📫 Contact via facebook : https://www.facebook.com/profile.php?id=100005735749196
 
 <!---
